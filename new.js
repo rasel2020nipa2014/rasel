@@ -357,6 +357,7 @@ function currentTimeAndDate() {
 }
 
 setInterval(currentTimeAndDate, 700)
+
 // function generetorTowNumber(max, whatUWant) {
 //     const random1 = Math.floor(Math.random() * max);
 //     const random2 = Math.floor(Math.random() * max);
